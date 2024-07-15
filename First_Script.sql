@@ -1,0 +1,1 @@
+Create table Branch (id int, branch_name varchar(255));
